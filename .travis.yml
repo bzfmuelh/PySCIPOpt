@@ -48,10 +48,3 @@ deploy:
   on:
     tags: true
   skip_existing: true
-  
-  provider: pages
-  skip_cleanup: true
-  local_dir: docs/html
-  github_token: $GITHUB_TOKEN
-  on:
-    branch: master
