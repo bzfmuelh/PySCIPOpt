@@ -10,7 +10,11 @@ var indexSectionsWithContent =
   7: "psv",
   8: "eflmopstuw",
   9: "dow",
+<<<<<<< HEAD
   10: "abcdefghilmnopqrstv",
+=======
+  10: "abcdefghilmnpqrstv",
+>>>>>>> upstream/gh-pages
   11: "abcdefghilmoprstuvw"
 };
 

@@ -3,13 +3,20 @@ var searchData=
   ['cacherowextensions',['cacheRowExtensions',['../classpyscipopt_1_1scip_1_1Model.html#a07ed8abea41d2550fec9325b5b9fd68c',1,'pyscipopt::scip::Model']]],
   ['calcchildestimate',['calcChildEstimate',['../classpyscipopt_1_1scip_1_1Model.html#a3dbed647dc1a78c2a5e9fc7c4fc9055c',1,'pyscipopt::scip::Model']]],
   ['calcnodeselpriority',['calcNodeselPriority',['../classpyscipopt_1_1scip_1_1Model.html#a87bb513332e2607c49d7c425fdb6b12b',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['capacity',['capacity',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#a48ca7a68047da0c62a36821207085010',1,'ObjPricerVRP']]],
+=======
+  ['capacity',['capacity',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#a48ca7a68047da0c62a36821207085010',1,'ObjPricerVRP']]],
+>>>>>>> upstream/gh-pages
   ['catchevent',['catchEvent',['../classpyscipopt_1_1scip_1_1Model.html#a7cb25f9e5afa16436a211e292b236317',1,'pyscipopt::scip::Model']]],
   ['catchrowevent',['catchRowEvent',['../classpyscipopt_1_1scip_1_1Model.html#a913497ef2531b3600a6d16f80f938880',1,'pyscipopt::scip::Model']]],
   ['catchvarevent',['catchVarEvent',['../classpyscipopt_1_1scip_1_1Model.html#a5ae86a77e13cc71a5100b2351364ff66',1,'pyscipopt::scip::Model']]],
   ['checksol',['checkSol',['../classpyscipopt_1_1scip_1_1Model.html#a92baa2d5b1db01c0194c23a9da18580b',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['checkstate',['checkState',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#ga46b568468a9272752bce18d836987fe0',1,]]],
   ['checkstate1',['checkState1',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#ga49d176310a1c5b67c18b563ee4946566',1,]]],
+=======
+>>>>>>> upstream/gh-pages
   ['chgbound',['chgBound',['../lp_8pxi.html#a9cb2b9dbed4fb315a29623c927b9968f',1,'pyscipopt::lp']]],
   ['chgcoef',['chgCoef',['../lp_8pxi.html#a581d937646c30b3a34b3c38f0ea962bb',1,'pyscipopt::lp']]],
   ['chglhs',['chgLhs',['../classpyscipopt_1_1scip_1_1Model.html#a67467e250c9007e702e2a8c8be141bbf',1,'pyscipopt::scip::Model']]],
@@ -30,6 +37,7 @@ var searchData=
   ['chgvarubdive',['chgVarUbDive',['../classpyscipopt_1_1scip_1_1Model.html#a179e65697f89c0c840ae5925ddbecbe6',1,'pyscipopt::scip::Model']]],
   ['chgvarubglobal',['chgVarUbGlobal',['../classpyscipopt_1_1scip_1_1Model.html#aa49cad4cf3da5288d698c37d8d7a60b7',1,'pyscipopt::scip::Model']]],
   ['chgvarubnode',['chgVarUbNode',['../classpyscipopt_1_1scip_1_1Model.html#a21d2793a58bf45fc14d84e54a2e1c8a6',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['clear',['clear',['https://scip.zib.de/doc-6.0.1/html/classstd_1_1pqueue.php.html#a021c81e4e18aed8c926198443543b9c2',1,'std::pqueue::clear()'],['../lp_8pxi.html#acaf2393100f1bf942cd273364aeb7ced',1,'pyscipopt.lp.clear()']]],
   ['cmdlineargs',['CmdLineArgs',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1CmdLineArgs.php.html#a4a0687ddb1d8e6dedfef9e52b2bb7a8a',1,'polyscip::CmdLineArgs']]],
   ['computebestsolsubproblems',['computeBestSolSubproblems',['../classpyscipopt_1_1scip_1_1Model.html#a139fab76436c42a971866df63c2620f8',1,'pyscipopt::scip::Model']]],
@@ -37,6 +45,15 @@ var searchData=
   ['computeslack',['computeSlack',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1WeightSpaceVertex.php.html#a856fb25e4eddc3eb3aed4adc85d0aafa',1,'polyscip::WeightSpaceVertex']]],
   ['computevrep',['computeVRep',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#aec428a286c99e6f4ad9011ab900a9c88',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
   ['computevrep_5fvar1',['computeVRep_Var1',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#aa62c2db2c20de01364f9279d5c9e30a1',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
+=======
+  ['clear',['clear',['https://scip.zib.de/doc/html/classstd_1_1pqueue.php.html#a021c81e4e18aed8c926198443543b9c2',1,'std::pqueue::clear()'],['../lp_8pxi.html#acaf2393100f1bf942cd273364aeb7ced',1,'pyscipopt.lp.clear()']]],
+  ['cmdlineargs',['CmdLineArgs',['https://scip.zib.de/doc/html/classpolyscip_1_1CmdLineArgs.php.html#a4a0687ddb1d8e6dedfef9e52b2bb7a8a',1,'polyscip::CmdLineArgs']]],
+  ['computebestsolsubproblems',['computeBestSolSubproblems',['../classpyscipopt_1_1scip_1_1Model.html#a139fab76436c42a971866df63c2620f8',1,'pyscipopt::scip::Model']]],
+  ['computenondompoints',['computeNondomPoints',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#a66105a5faca69c4a395525c050524cba',1,'polyscip::Polyscip']]],
+  ['computeslack',['computeSlack',['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpaceVertex.php.html#a856fb25e4eddc3eb3aed4adc85d0aafa',1,'polyscip::WeightSpaceVertex']]],
+  ['computevrep',['computeVRep',['https://scip.zib.de/doc/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#aec428a286c99e6f4ad9011ab900a9c88',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
+  ['computevrep_5fvar1',['computeVRep_Var1',['https://scip.zib.de/doc/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#aa62c2db2c20de01364f9279d5c9e30a1',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
+>>>>>>> upstream/gh-pages
   ['consactive',['consactive',['../conshdlr_8pxi.html#a32cc04a45eea80616661faf82d68518e',1,'pyscipopt::conshdlr']]],
   ['conscheck',['conscheck',['../conshdlr_8pxi.html#a5ba38e3a4cc95025bde30edfe1c42638',1,'pyscipopt::conshdlr']]],
   ['conscopy',['conscopy',['../conshdlr_8pxi.html#a74a7b318ae1768cedc5856f1cb9820d7',1,'pyscipopt::conshdlr']]],
@@ -55,7 +72,11 @@ var searchData=
   ['consgetdivebdchgs',['consgetdivebdchgs',['../conshdlr_8pxi.html#a1da0322b4cc600810b5aaa00673f5b33',1,'pyscipopt::conshdlr']]],
   ['consgetnvars',['consgetnvars',['../conshdlr_8pxi.html#ab18eceaac661da8340cbcca54a0ba1a3',1,'pyscipopt::conshdlr']]],
   ['consgetvars',['consgetvars',['../conshdlr_8pxi.html#a9a74de47f415fdac522099ae767ad7c2',1,'pyscipopt::conshdlr']]],
+<<<<<<< HEAD
   ['conshdlrsubtour',['ConshdlrSubtour',['https://scip.zib.de/doc-6.0.1/html/classtsp_1_1ConshdlrSubtour.php.html#ab9c53b776de62deb2dd708503614a92b',1,'tsp::ConshdlrSubtour']]],
+=======
+  ['conshdlrsubtour',['ConshdlrSubtour',['https://scip.zib.de/doc/html/classtsp_1_1ConshdlrSubtour.php.html#ab9c53b776de62deb2dd708503614a92b',1,'tsp::ConshdlrSubtour']]],
+>>>>>>> upstream/gh-pages
   ['consinit',['consinit',['../conshdlr_8pxi.html#aeee28f0a18e1420e49b0c0b8621fbef1',1,'pyscipopt::conshdlr']]],
   ['consinitlp',['consinitlp',['../conshdlr_8pxi.html#adf8752e1891444f62dd085b5325531bc',1,'pyscipopt::conshdlr']]],
   ['consinitpre',['consinitpre',['../conshdlr_8pxi.html#a653c9a0ce64038a1001e01532f166744',1,'pyscipopt::conshdlr']]],
@@ -70,10 +91,13 @@ var searchData=
   ['conssepasol',['conssepasol',['../conshdlr_8pxi.html#ada681f4390313b647ddf2a442f37e796',1,'pyscipopt::conshdlr']]],
   ['constrans',['constrans',['../conshdlr_8pxi.html#a6416367a8d82995b4c0555177b8ae80c',1,'pyscipopt::conshdlr']]],
   ['constructlp',['constructLP',['../classpyscipopt_1_1scip_1_1Model.html#af2a1d32371bb213d0fcc7662e2b02737',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['convertstat_5fmosek2scip',['convertstat_mosek2scip',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#ga5cc812c0dad2590dcb5bd50a0dd051d2',1,]]],
   ['convertstat_5fmosek2scip_5fslack',['convertstat_mosek2scip_slack',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#ga0b4ac111862b7e446b316e91c2378336',1,]]],
   ['convertstat_5fscip2mosek',['convertstat_scip2mosek',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#gab3a52ec82f29e8c3fc5fd0769e3f424c',1,]]],
   ['convertstat_5fscip2mosek_5fslack',['convertstat_scip2mosek_slack',['https://scip.zib.de/doc-6.0.1/html/group__LPIS.php.html#gae52d005da34e3ec14469cd3abc945f92',1,]]],
+=======
+>>>>>>> upstream/gh-pages
   ['convex_5fcomb_5fagg',['convex_comb_agg',['../piecewise_8py.html#a234f7afa24214aa7ff71bc79638eaf5b',1,'piecewise']]],
   ['convex_5fcomb_5fagg_5flog',['convex_comb_agg_log',['../piecewise_8py.html#a4d0018e0446c5eb297cfdb2bec294bd7',1,'piecewise']]],
   ['convex_5fcomb_5fdis',['convex_comb_dis',['../piecewise_8py.html#ac607326c8553151a4b786bc665598b3c',1,'piecewise']]],

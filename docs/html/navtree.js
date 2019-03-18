@@ -1,6 +1,9 @@
 var navTreeSubIndices = new Array();
+<<<<<<< HEAD
 var arrowDown = '&#9660;';
 var arrowRight = '&#9658;';
+=======
+>>>>>>> upstream/gh-pages
 
 function getData(varName)
 {
@@ -73,6 +76,7 @@ function cachedLink()
 
 function getScript(scriptName,func,show)
 {
+<<<<<<< HEAD
   var head = document.getElementsByTagName("head")[0];
   var script = document.createElement('script');
   script.id = scriptName;
@@ -84,6 +88,19 @@ function getScript(scriptName,func,show)
     script.onreadystatechange = function() {
       if (script.readyState=='complete' || script.readyState=='loaded') {
         func(); if (show) showRoot();
+=======
+  var head = document.getElementsByTagName("head")[0]; 
+  var script = document.createElement('script');
+  script.id = scriptName;
+  script.type = 'text/javascript';
+  script.onload = func; 
+  script.src = scriptName+'.js'; 
+  if ($.browser.msie && $.browser.version<=8) { 
+    // script.onload does not work with older versions of IE
+    script.onreadystatechange = function() {
+      if (script.readyState=='complete' || script.readyState=='loaded') { 
+        func(); if (show) showRoot(); 
+>>>>>>> upstream/gh-pages
       }
     }
   }
@@ -96,17 +113,29 @@ function createIndent(o,domNode,node,level)
   var n = node;
   while (n.parentNode) { level++; n=n.parentNode; }
   if (node.childrenData) {
+<<<<<<< HEAD
     var imgNode = document.createElement("span");
     imgNode.className = 'arrow';
     imgNode.style.paddingLeft=(16*level).toString()+'px';
     imgNode.innerHTML=arrowRight;
+=======
+    var imgNode = document.createElement("img");
+    imgNode.style.paddingLeft=(16*level).toString()+'px';
+    imgNode.width  = 16;
+    imgNode.height = 22;
+    imgNode.border = 0;
+>>>>>>> upstream/gh-pages
     node.plus_img = imgNode;
     node.expandToggle = document.createElement("a");
     node.expandToggle.href = "javascript:void(0)";
     node.expandToggle.onclick = function() {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
+<<<<<<< HEAD
         node.plus_img.innerHTML=arrowRight;
+=======
+        node.plus_img.src = node.relpath+"arrowright.png";
+>>>>>>> upstream/gh-pages
         node.expanded = false;
       } else {
         expandNode(o, node, false, false);
@@ -114,6 +143,7 @@ function createIndent(o,domNode,node,level)
     }
     node.expandToggle.appendChild(imgNode);
     domNode.appendChild(node.expandToggle);
+<<<<<<< HEAD
   } else {
     var span = document.createElement("span");
     span.className = 'arrow';
@@ -121,6 +151,17 @@ function createIndent(o,domNode,node,level)
     span.innerHTML = '&#160;';
     domNode.appendChild(span);
   }
+=======
+    imgNode.src = node.relpath+"arrowright.png";
+  } else {
+    var span = document.createElement("span");
+    span.style.display = 'inline-block';
+    span.style.width   = 16*(level+1)+'px';
+    span.style.height  = '22px';
+    span.innerHTML = '&#160;';
+    domNode.appendChild(span);
+  } 
+>>>>>>> upstream/gh-pages
 }
 
 var animationInProgress = false;
@@ -194,7 +235,11 @@ function newNode(o, po, text, link, childrenData, lastNode)
       var aname = '#'+link.split('#')[1];
       var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
+<<<<<<< HEAD
       a.href = srcPage!=targetPage ? url : "javascript:void(0)";
+=======
+      a.href = srcPage!=targetPage ? url : "javascript:void(0)"; 
+>>>>>>> upstream/gh-pages
       a.onclick = function(){
         storeLink(link);
         if (!$(a).parent().parent().hasClass('selected'))
@@ -212,7 +257,11 @@ function newNode(o, po, text, link, childrenData, lastNode)
       a.onclick = function() { storeLink(link); }
     }
   } else {
+<<<<<<< HEAD
     if (childrenData != null)
+=======
+    if (childrenData != null) 
+>>>>>>> upstream/gh-pages
     {
       a.className = "nolink";
       a.href = "javascript:void(0)";
@@ -261,13 +310,25 @@ function expandNode(o, node, imm, showRoot)
     } else {
       if (!node.childrenVisited) {
         getNode(o, node);
+<<<<<<< HEAD
       } if (imm || ($.browser.msie && $.browser.version>8)) {
+=======
+      } if (imm || ($.browser.msie && $.browser.version>8)) { 
+>>>>>>> upstream/gh-pages
         // somehow slideDown jumps to the start of tree for IE9 :-(
         $(node.getChildrenUL()).show();
       } else {
         $(node.getChildrenUL()).slideDown("fast");
       }
+<<<<<<< HEAD
       node.plus_img.innerHTML = arrowDown;
+=======
+      if (node.isLast) {
+        node.plus_img.src = node.relpath+"arrowdown.png";
+      } else {
+        node.plus_img.src = node.relpath+"arrowdown.png";
+      }
+>>>>>>> upstream/gh-pages
       node.expanded = true;
     }
   }
@@ -336,7 +397,11 @@ function showNode(o, node, index, hash)
         getNode(o, node);
       }
       $(node.getChildrenUL()).css({'display':'block'});
+<<<<<<< HEAD
       node.plus_img.innerHTML = arrowDown;
+=======
+      node.plus_img.src = node.relpath+"arrowdown.png";
+>>>>>>> upstream/gh-pages
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
       if (index+1<o.breadcrumbs.length) {
@@ -473,9 +538,16 @@ function initNavTree(toroot,relpath)
   o.node.relpath = relpath;
   o.node.expanded = false;
   o.node.isLast = true;
+<<<<<<< HEAD
   o.node.plus_img = document.createElement("span");
   o.node.plus_img.className = 'arrow';
   o.node.plus_img.innerHTML = arrowRight;
+=======
+  o.node.plus_img = document.createElement("img");
+  o.node.plus_img.src = relpath+"arrowright.png";
+  o.node.plus_img.width = 16;
+  o.node.plus_img.height = 22;
+>>>>>>> upstream/gh-pages
 
   if (localStorageSupported()) {
     var navSync = $('#nav-sync');

@@ -1,11 +1,19 @@
 var searchData=
 [
   ['parity',['parity',['../finished_2even_8py.html#a1d565637899eabf37197e8af09232df9',1,'even']]],
+<<<<<<< HEAD
   ['part_5fcon',['part_con',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#a08629582c7786814321c7a02e91f6acf',1,'ObjPricerVRP']]],
   ['permutation_5fflow_5fshop',['permutation_flow_shop',['../pfs_8py.html#ab01b844ccbff0188a6f4c62e8bc2cbfa',1,'pfs']]],
   ['polyscip',['Polyscip',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1Polyscip.php.html#ab2635c9bb81468a46bc7ef57154c7361',1,'polyscip::Polyscip']]],
   ['pop',['pop',['https://scip.zib.de/doc-6.0.1/html/classstd_1_1pqueue.php.html#a2283fb065a9c3863b38ea7c80cb353a5',1,'std::pqueue']]],
   ['pqueue',['pqueue',['https://scip.zib.de/doc-6.0.1/html/classstd_1_1pqueue.php.html#af928d10868a25ca1b240b1990e7b9353',1,'std::pqueue']]],
+=======
+  ['part_5fcon',['part_con',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#a08629582c7786814321c7a02e91f6acf',1,'ObjPricerVRP']]],
+  ['permutation_5fflow_5fshop',['permutation_flow_shop',['../pfs_8py.html#ab01b844ccbff0188a6f4c62e8bc2cbfa',1,'pfs']]],
+  ['polyscip',['Polyscip',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#ab2635c9bb81468a46bc7ef57154c7361',1,'polyscip::Polyscip']]],
+  ['pop',['pop',['https://scip.zib.de/doc/html/classstd_1_1pqueue.php.html#a2283fb065a9c3863b38ea7c80cb353a5',1,'std::pqueue']]],
+  ['pqueue',['pqueue',['https://scip.zib.de/doc/html/classstd_1_1pqueue.php.html#af928d10868a25ca1b240b1990e7b9353',1,'std::pqueue']]],
+>>>>>>> upstream/gh-pages
   ['presolexec',['presolexec',['../classpyscipopt_1_1presol_1_1Presol.html#a874db28ab3046ec95d6daa5d8261167b',1,'pyscipopt::presol::Presol']]],
   ['presolexit',['presolexit',['../classpyscipopt_1_1presol_1_1Presol.html#acd517cf0888c56e00dde4e2bbd96fb19',1,'pyscipopt::presol::Presol']]],
   ['presolexitpre',['presolexitpre',['../classpyscipopt_1_1presol_1_1Presol.html#aee1440e603fadf7a2c34cbf46326e2f2',1,'pyscipopt::presol::Presol']]],
@@ -20,6 +28,7 @@ var searchData=
   ['pricerinit',['pricerinit',['../pricer_8pxi.html#acc0d1636f3d65e59038a2899e8f3c92d',1,'pyscipopt::pricer']]],
   ['pricerinitsol',['pricerinitsol',['../pricer_8pxi.html#aefd227771d7bd66c5cb93ef46bf32b66',1,'pyscipopt::pricer']]],
   ['pricerredcost',['pricerredcost',['../pricer_8pxi.html#a03cd5c4d963cd32c01a6a2aa87bd450f',1,'pyscipopt::pricer']]],
+<<<<<<< HEAD
   ['pricing',['pricing',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#a447c3a08f0ae956828fc7b6b7c421ea8',1,'ObjPricerVRP']]],
   ['print',['print',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1doubledescription_1_1V__RepT.php.html#acf4b4970d69295a9d75e613ad1ed017a',1,'polyscip::doubledescription::V_RepT::print()'],['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1WeightSpaceFacet.php.html#abd60d6ae28a0ec9097dc327cbff477da',1,'polyscip::WeightSpaceFacet::print()'],['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1WeightSpaceVertex.php.html#af9b1362c087ebab6984837bc61bf103c',1,'polyscip::WeightSpaceVertex::print()'],['https://scip.zib.de/doc-6.0.1/html/namespacepolyscip_1_1global.php.html#a3c74a49f06c938c196b3346edeb3e188',1,'polyscip::global::print()']]],
   ['printbestsol',['printBestSol',['../classpyscipopt_1_1scip_1_1Model.html#ad5969a270b0fd6a6039a69bfe666d6e0',1,'pyscipopt::scip::Model']]],
@@ -35,6 +44,23 @@ var searchData=
   ['printversion',['printVersion',['../classpyscipopt_1_1scip_1_1Model.html#a2a47903eaefe53d0636925f10edcef28',1,'pyscipopt::scip::Model']]],
   ['printvrep',['printVRep',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#a2b995c3c6e95d60ac5456daf728ca19a',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
   ['probdatatsp',['ProbDataTSP',['https://scip.zib.de/doc-6.0.1/html/classtsp_1_1ProbDataTSP.php.html#a85f52ce021fd38e204b8c52cb0522c62',1,'tsp::ProbDataTSP']]],
+=======
+  ['pricing',['pricing',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#a447c3a08f0ae956828fc7b6b7c421ea8',1,'ObjPricerVRP']]],
+  ['print',['print',['https://scip.zib.de/doc/html/classpolyscip_1_1doubledescription_1_1V__RepT.php.html#acf4b4970d69295a9d75e613ad1ed017a',1,'polyscip::doubledescription::V_RepT::print()'],['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpaceFacet.php.html#abd60d6ae28a0ec9097dc327cbff477da',1,'polyscip::WeightSpaceFacet::print()'],['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpaceVertex.php.html#af9b1362c087ebab6984837bc61bf103c',1,'polyscip::WeightSpaceVertex::print()'],['https://scip.zib.de/doc/html/namespacepolyscip_1_1global.php.html#a3c74a49f06c938c196b3346edeb3e188',1,'polyscip::global::print()']]],
+  ['printbestsol',['printBestSol',['../classpyscipopt_1_1scip_1_1Model.html#ad5969a270b0fd6a6039a69bfe666d6e0',1,'pyscipopt::scip::Model']]],
+  ['printfunc',['printFunc',['../finished_2logical_8py.html#a0caa90644685783550c28ad0a429f601',1,'logical']]],
+  ['printmarkedvertices',['printMarkedVertices',['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpacePolyhedron.php.html#a66d9e73c330bd835842ef715445917db',1,'polyscip::WeightSpacePolyhedron']]],
+  ['printobsoletevertices',['printObsoleteVertices',['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpacePolyhedron.php.html#a54780755a75b99f07e87e0616d9e8935',1,'polyscip::WeightSpacePolyhedron']]],
+  ['printresults',['printResults',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#a7ae072d99f588d523b057e536432655a',1,'polyscip::Polyscip']]],
+  ['printrow',['printRow',['../classpyscipopt_1_1scip_1_1Model.html#a2856b4fdc076e8fe109ca3b7c14700f7',1,'pyscipopt::scip::Model']]],
+  ['printsol',['printSol',['../classpyscipopt_1_1scip_1_1Model.html#a12e291c34835a0c3373412aa0a129803',1,'pyscipopt::scip::Model']]],
+  ['printstatistics',['printStatistics',['../classpyscipopt_1_1scip_1_1Model.html#a5e8b1a2e35752fac6545d0143bd2a398',1,'pyscipopt::scip::Model']]],
+  ['printstatus',['printStatus',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#ab4717eb9ac854eb7cd37993a29fee33b',1,'polyscip::Polyscip']]],
+  ['printunmarkedvertices',['printUnmarkedVertices',['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpacePolyhedron.php.html#aa2cdc0208d705b109198123724ec2fbd',1,'polyscip::WeightSpacePolyhedron']]],
+  ['printversion',['printVersion',['../classpyscipopt_1_1scip_1_1Model.html#a2a47903eaefe53d0636925f10edcef28',1,'pyscipopt::scip::Model']]],
+  ['printvrep',['printVRep',['https://scip.zib.de/doc/html/classpolyscip_1_1doubledescription_1_1DoubleDescriptionMethod.php.html#a2b995c3c6e95d60ac5456daf728ca19a',1,'polyscip::doubledescription::DoubleDescriptionMethod']]],
+  ['probdatatsp',['ProbDataTSP',['https://scip.zib.de/doc/html/classtsp_1_1ProbDataTSP.php.html#a85f52ce021fd38e204b8c52cb0522c62',1,'tsp::ProbDataTSP']]],
+>>>>>>> upstream/gh-pages
   ['prodmix',['prodmix',['../prodmix__soco_8py.html#a6d01f55fa703a97f258de3078541b09b',1,'prodmix_soco']]],
   ['propexec',['propexec',['../propagator_8pxi.html#aefe8cb411092506f0d983799209ae515',1,'pyscipopt::propagator']]],
   ['propexit',['propexit',['../propagator_8pxi.html#a617046ffb3311feaa80417354ad53828',1,'pyscipopt::propagator']]],

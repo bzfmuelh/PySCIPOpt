@@ -1,6 +1,10 @@
 var hierarchy =
 [
     [ "Benders", "classpyscipopt_1_1benders_1_1Benders.html", null ],
+<<<<<<< HEAD
+=======
+    [ "Benderscut", "classpyscipopt_1_1benderscut_1_1Benderscut.html", null ],
+>>>>>>> upstream/gh-pages
     [ "Branchrule", "classpyscipopt_1_1branchrule_1_1Branchrule.html", null ],
     [ "Column", "classpyscipopt_1_1scip_1_1Column.html", null ],
     [ "Conshdlr", "classpyscipopt_1_1conshdlr_1_1Conshdlr.html", null ],

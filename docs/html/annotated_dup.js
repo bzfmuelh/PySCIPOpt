@@ -4,6 +4,12 @@ var annotated_dup =
       [ "benders", null, [
         [ "Benders", "classpyscipopt_1_1benders_1_1Benders.html", "classpyscipopt_1_1benders_1_1Benders" ]
       ] ],
+<<<<<<< HEAD
+=======
+      [ "benderscut", null, [
+        [ "Benderscut", "classpyscipopt_1_1benderscut_1_1Benderscut.html", null ]
+      ] ],
+>>>>>>> upstream/gh-pages
       [ "branchrule", null, [
         [ "Branchrule", "classpyscipopt_1_1branchrule_1_1Branchrule.html", null ]
       ] ],

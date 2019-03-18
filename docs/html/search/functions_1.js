@@ -14,9 +14,15 @@ var searchData=
   ['benderspresubsolve',['benderspresubsolve',['../classpyscipopt_1_1benders_1_1Benders.html#a279f59b021b780e16d7270ca83e3a5b1',1,'pyscipopt::benders::Benders']]],
   ['benderssolvesub',['benderssolvesub',['../classpyscipopt_1_1benders_1_1Benders.html#a62d114dead2404c79569e97b22fc912c',1,'pyscipopt::benders::Benders']]],
   ['benderssolvesubconvex',['benderssolvesubconvex',['../classpyscipopt_1_1benders_1_1Benders.html#a0e8f48d303ddc92af8ab14d2bf01c1cf',1,'pyscipopt::benders::Benders']]],
+<<<<<<< HEAD
   ['beverbose',['beVerbose',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1CmdLineArgs.php.html#aa6b1c8e1772222e6633301935f67b77d',1,'polyscip::CmdLineArgs']]],
   ['boundedcbegin',['boundedCBegin',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1Polyscip.php.html#aaafb950cda4c51461fb7f12762eed424',1,'polyscip::Polyscip']]],
   ['boundedcend',['boundedCEnd',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1Polyscip.php.html#ab0eb1a353fe2bc2dd2d415e5a5a94dbb',1,'polyscip::Polyscip']]],
+=======
+  ['beverbose',['beVerbose',['https://scip.zib.de/doc/html/classpolyscip_1_1CmdLineArgs.php.html#aa6b1c8e1772222e6633301935f67b77d',1,'polyscip::CmdLineArgs']]],
+  ['boundedcbegin',['boundedCBegin',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#aaafb950cda4c51461fb7f12762eed424',1,'polyscip::Polyscip']]],
+  ['boundedcend',['boundedCEnd',['https://scip.zib.de/doc/html/classpolyscip_1_1Polyscip.php.html#ab0eb1a353fe2bc2dd2d415e5a5a94dbb',1,'polyscip::Polyscip']]],
+>>>>>>> upstream/gh-pages
   ['bpp',['bpp',['../bpp_8py.html#a51795a881d7445024ba55b243fdb3b54',1,'bpp']]],
   ['branchexecext',['branchexecext',['../branchrule_8pxi.html#aec0aaa80c65c5006421244b94b9aaf71',1,'pyscipopt::branchrule']]],
   ['branchexeclp',['branchexeclp',['../branchrule_8pxi.html#ab77e9b4d216a162a0a3f83373cd5a924',1,'pyscipopt::branchrule']]],

@@ -1,5 +1,6 @@
 var searchData=
 [
+<<<<<<< HEAD
   ['problem_20copies',['Problem Copies',['https://scip.zib.de/doc-6.0.1/html/group__CopyMethods.php.html',1,'']]],
   ['parallel_20interface_20methods',['Parallel interface methods',['https://scip.zib.de/doc-6.0.1/html/group__PARALLEL.php.html',1,'']]],
   ['parameter',['Parameter',['https://scip.zib.de/doc-6.0.1/html/group__ParameterMethods.php.html',1,'']]],
@@ -21,4 +22,7 @@ var searchData=
   ['primal_20solution',['Primal Solution',['https://scip.zib.de/doc-6.0.1/html/group__PublicSolutionMethods.php.html',1,'']]],
   ['public_20variable_20graph_20methods',['Public Variable Graph Methods',['https://scip.zib.de/doc-6.0.1/html/group__PublicVariableGraphMethods.php.html',1,'']]],
   ['problem_20variables',['Problem Variables',['https://scip.zib.de/doc-6.0.1/html/group__PublicVariableMethods.php.html',1,'']]]
+=======
+  ['queue',['Queue',['https://scip.zib.de/doc/html/group__Queue.php.html',1,'']]]
+>>>>>>> upstream/gh-pages
 ];

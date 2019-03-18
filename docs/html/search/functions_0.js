@@ -1,7 +1,11 @@
 var searchData=
 [
   ['activatebenders',['activateBenders',['../classpyscipopt_1_1scip_1_1Model.html#ad2a6efa214ee7e74d57103c4cdd36ad7',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['add_5ftour_5fvariable',['add_tour_variable',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#aa4ea2f7fec4407b349f37633d8f4bd92',1,'ObjPricerVRP']]],
+=======
+  ['add_5ftour_5fvariable',['add_tour_variable',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#aa4ea2f7fec4407b349f37633d8f4bd92',1,'ObjPricerVRP']]],
+>>>>>>> upstream/gh-pages
   ['addbenderssubproblem',['addBendersSubproblem',['../classpyscipopt_1_1scip_1_1Model.html#afe363da7f0418cba8a4f664b8d1ce980',1,'pyscipopt::scip::Model']]],
   ['addcol',['addCol',['../lp_8pxi.html#a713af6b51473541f8d61e53b782abd71',1,'pyscipopt::lp']]],
   ['addcols',['addCols',['../lp_8pxi.html#a73e9a59cdac089a19e7216aca335119f',1,'pyscipopt::lp']]],
@@ -10,13 +14,23 @@ var searchData=
   ['addconscardinality',['addConsCardinality',['../classpyscipopt_1_1scip_1_1Model.html#ab187023763557b1e994360db670ea250',1,'pyscipopt::scip::Model']]],
   ['addconscoeff',['addConsCoeff',['../classpyscipopt_1_1scip_1_1Model.html#a1daee0132c18c38417b2f884b38e046d',1,'pyscipopt::scip::Model']]],
   ['addconsindicator',['addConsIndicator',['../classpyscipopt_1_1scip_1_1Model.html#a22a45c7b59d7bcbf4ae1804114ed9e96',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
+=======
+  ['addconslocal',['addConsLocal',['../classpyscipopt_1_1scip_1_1Model.html#aa3736da2061631bdfab21b1a1ba51af2',1,'pyscipopt::scip::Model']]],
+  ['addconsnode',['addConsNode',['../classpyscipopt_1_1scip_1_1Model.html#a088c1b38ef781b5092dfcca562f6946f',1,'pyscipopt::scip::Model']]],
+>>>>>>> upstream/gh-pages
   ['addconsor',['addConsOr',['../classpyscipopt_1_1scip_1_1Model.html#abce862b4e66d284b4647497c46233da3',1,'pyscipopt::scip::Model']]],
   ['addconssos1',['addConsSOS1',['../classpyscipopt_1_1scip_1_1Model.html#a37452cbb25384f9a31aef7ec6e79541d',1,'pyscipopt::scip::Model']]],
   ['addconssos2',['addConsSOS2',['../classpyscipopt_1_1scip_1_1Model.html#a82aa2cc1cc2129858882d5945911c208',1,'pyscipopt::scip::Model']]],
   ['addconsxor',['addConsXor',['../classpyscipopt_1_1scip_1_1Model.html#a2875a60ae7639adbb50b353a48956b79',1,'pyscipopt::scip::Model']]],
   ['addcut',['addCut',['../classpyscipopt_1_1scip_1_1Model.html#ad1890b5b3c8b9156b8da6b282f5e8f80',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['addobjcoeff',['addObjCoeff',['https://scip.zib.de/doc-6.0.1/html/classProbDataObjectives.php.html#a8c0bd4b3975369e6bd880c54a5e45ce9',1,'ProbDataObjectives']]],
   ['addobjname',['addObjName',['https://scip.zib.de/doc-6.0.1/html/classProbDataObjectives.php.html#addb451ddb308db64a0497738ce6c6e6f',1,'ProbDataObjectives']]],
+=======
+  ['addobjcoeff',['addObjCoeff',['https://scip.zib.de/doc/html/classProbDataObjectives.php.html#a8c0bd4b3975369e6bd880c54a5e45ce9',1,'ProbDataObjectives']]],
+  ['addobjname',['addObjName',['https://scip.zib.de/doc/html/classProbDataObjectives.php.html#addb451ddb308db64a0497738ce6c6e6f',1,'ProbDataObjectives']]],
+>>>>>>> upstream/gh-pages
   ['addobjoffset',['addObjoffset',['../classpyscipopt_1_1scip_1_1Model.html#a41e0b50428c72e824b4975fab48e7c03',1,'pyscipopt::scip::Model']]],
   ['addpoolcut',['addPoolCut',['../classpyscipopt_1_1scip_1_1Model.html#aaa95aa2161c16b9d58a90de40f5feaf1',1,'pyscipopt::scip::Model']]],
   ['addpycons',['addPyCons',['../classpyscipopt_1_1scip_1_1Model.html#a483d8d0344036a9e1c44ac54040d22b4',1,'pyscipopt::scip::Model']]],
@@ -32,10 +46,19 @@ var searchData=
   ['and_5fconstraint',['and_constraint',['../tutorial_2logical_8py.html#a91fe3b494d722514a2e99aa31a795840',1,'logical']]],
   ['appendvarsos1',['appendVarSOS1',['../classpyscipopt_1_1scip_1_1Model.html#a37edb5b3021a41bda1d51167fbdde1d4',1,'pyscipopt::scip::Model']]],
   ['appendvarsos2',['appendVarSOS2',['../classpyscipopt_1_1scip_1_1Model.html#aa9317d5aef6aa006cd52690be3bb88af',1,'pyscipopt::scip::Model']]],
+<<<<<<< HEAD
   ['arc_5fcon',['arc_con',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#ad3e57656404f315c0bd06b6a0796f128',1,'ObjPricerVRP']]],
   ['arc_5fvar',['arc_var',['https://scip.zib.de/doc-6.0.1/html/classObjPricerVRP.php.html#a4b33fd04396d530783cccccbae59aedd',1,'ObjPricerVRP']]],
   ['areadjacent',['areAdjacent',['https://scip.zib.de/doc-6.0.1/html/classpolyscip_1_1WeightSpacePolyhedron.php.html#a0263b035778578e8d72a2147953495ca',1,'polyscip::WeightSpacePolyhedron']]],
   ['atomic_5fposintpower',['atomic_posintpower',['https://scip.zib.de/doc-6.0.1/html/classatomic__posintpower.php.html#a118f90eb677eb5c0fc5e9fca2e002ba2',1,'atomic_posintpower']]],
   ['atomic_5fsignpower',['atomic_signpower',['https://scip.zib.de/doc-6.0.1/html/classatomic__signpower.php.html#a78c4e87eac36363b75bdb905eb409490',1,'atomic_signpower']]],
   ['atomic_5fuserexpr',['atomic_userexpr',['https://scip.zib.de/doc-6.0.1/html/classatomic__userexpr.php.html#a6d0358688523f4d3a91a42ca29a2d684',1,'atomic_userexpr']]]
+=======
+  ['arc_5fcon',['arc_con',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#ad3e57656404f315c0bd06b6a0796f128',1,'ObjPricerVRP']]],
+  ['arc_5fvar',['arc_var',['https://scip.zib.de/doc/html/classObjPricerVRP.php.html#a4b33fd04396d530783cccccbae59aedd',1,'ObjPricerVRP']]],
+  ['areadjacent',['areAdjacent',['https://scip.zib.de/doc/html/classpolyscip_1_1WeightSpacePolyhedron.php.html#a0263b035778578e8d72a2147953495ca',1,'polyscip::WeightSpacePolyhedron']]],
+  ['atomic_5fposintpower',['atomic_posintpower',['https://scip.zib.de/doc/html/classatomic__posintpower.php.html#a118f90eb677eb5c0fc5e9fca2e002ba2',1,'atomic_posintpower']]],
+  ['atomic_5fsignpower',['atomic_signpower',['https://scip.zib.de/doc/html/classatomic__signpower.php.html#a78c4e87eac36363b75bdb905eb409490',1,'atomic_signpower']]],
+  ['atomic_5fuserexpr',['atomic_userexpr',['https://scip.zib.de/doc/html/classatomic__userexpr.php.html#a6d0358688523f4d3a91a42ca29a2d684',1,'atomic_userexpr']]]
+>>>>>>> upstream/gh-pages
 ];

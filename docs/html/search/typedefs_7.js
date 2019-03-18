@@ -1,5 +1,10 @@
 var searchData=
 [
+<<<<<<< HEAD
   ['result',['Result',['https://scip.zib.de/doc-6.0.1/html/namespacepolyscip.php.html#a721a42c35eeeb2d1a668772bf9cc947d',1,'polyscip']]],
   ['resultcontainer',['ResultContainer',['https://scip.zib.de/doc-6.0.1/html/namespacepolyscip.php.html#aade5e71dd61afc58712fd9ac6a42e0c0',1,'polyscip']]]
+=======
+  ['result',['Result',['https://scip.zib.de/doc/html/namespacepolyscip.php.html#a721a42c35eeeb2d1a668772bf9cc947d',1,'polyscip']]],
+  ['resultcontainer',['ResultContainer',['https://scip.zib.de/doc/html/namespacepolyscip.php.html#aade5e71dd61afc58712fd9ac6a42e0c0',1,'polyscip']]]
+>>>>>>> upstream/gh-pages
 ];
