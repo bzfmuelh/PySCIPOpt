@@ -426,7 +426,7 @@ cdef class GenExpr:
      so expr[x] will generate an error instead of returning the coefficient of x
     '''
     cdef public operatorIndex
-    cdef public op
+    cdef public scip_op
     cdef public children
 
 
@@ -600,7 +600,7 @@ cdef class GenExpr:
 
     def getOp(self):
         '''returns operator of GenExpr'''
-        return self.op
+        return self.scip_op
 
 
 # Sum Expressions
